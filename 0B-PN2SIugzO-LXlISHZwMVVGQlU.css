@@ -1,0 +1,96 @@
+a{text-decoration:none; margin:0;}
+a:hover {text-decoration:none;}
+ul,li {margin:0; padding:0}
+#box {margin:0 auto}
+.box01 {overflow:hidden; background:#fff; margin-bottom:20px; position:relative}
+.box011{width:58%; float:left; height:400px; padding:10px 1%;}
+.box011 h2 {margin-bottom:5px; font-size:16px; font-weight:bold}
+.box011 img{margin-bottom:5px;  height:238px; width:100%; box-shadow: 0 0 2px 1px #F227FD;}
+.box011-info {text-align:justify}
+.box012 {display:block; width:40%; height:70px; float:right; font-size:14px; overflow:hidden; transition: background 0.4s}
+.box012:hover {background:#6BADFE}
+.box012:hover a {color:#6BADFE}
+.box012 img {height:50px; width:30%; float:left; margin:10px 2%; box-shadow: 0 0 2px 1px #6BADFE;}
+.box012 h3 a {font-weight:normal; font-size:14px; display:block; width:64% ; height:60px; float:right; padding:5px 2% 5px 0; line-height:20px}
+
+.box02{margin-bottom:20px; overflow:hidden; background:#FFF;}
+.box021{width:58%; float:left; height:180px; padding:10px 1%;}
+.box021 h3{font-size:16px; margin-bottom:5px}
+.box021 img{margin-right:5px;  height:100px; width:40%; float:left; box-shadow: 0 0 2px 1px #1705A6;}
+.box021-info {text-align:justify}
+.box022 {display: block; width:40%; float:right; height:40px; overflow:hidden; transition: background 0.4s}
+.box022:hover {background:#0C1DDF}
+.box022:hover a {color:#AB2727}
+.box022 img {float:left; height:30px; width:18%; margin:5px 2%; box-shadow: 0 0 2px 1px #2107ED;}
+.box022 h3 a{font-weight:normal; font-size:14px; display:block; width:78%; height:40px; float:right; line-height:20px}
+
+.box03{margin-bottom:20px; overflow:hidden; background:#fff}
+.box031{width:42%; float:left; height:345px; padding:10px 1%}
+.box031 img{height:175px; width:100%; box-shadow: 0 0 2px 1px #000;}
+.box031 h3 a{font-size:16px}
+.box031-info {text-align:justify}
+.box032 {display: block; width:27%; padding:10px 1% 10px 0; float:left; height:135px; overflow:hidden; border-bottom:1px solid #aaa}
+.box032 img {height:105px; width:100%; box-shadow: 0 0 2px 1px #000;}
+.box032 h3 a{font-weight:normal; font-size:14px; display:block; height:40px; line-height:20px}
+.box033 {display: block; width:52%; padding:5px 2%; height:20px; overflow:hidden; transition: background 0.4s}
+.box033:hover {background:#bbb}
+.box033:hover a {color:#000}
+.box033 h3 a{font-weight:normal; font-size:14px; display:block; height:20px; line-height:20px}
+
+.box04{margin-bottom:20px; overflow:hidden; background:#fff}
+.box04-left{width:69%; float:left}
+.box041{width:96%; height:398px; padding:10px 2%; border-bottom:1px solid #aaa}
+.box041 img{height:270px; width:100%; box-shadow: 0 0 2px 1px #000;}
+.box041 h3 a{font-size:16px}
+.box041-info {text-align:justify}
+.box042 {display: block; width:31.3%; padding:5px 1%; float:left; height:130px; overflow:hidden;}
+.box042 img {height:82px; width:100%; margin:0 1px; box-shadow: 0 0 2px 1px #000;}
+.box042 h3 a{font-weight:normal; font-size:14px; display:block; height:51px; line-height:17px}
+.box04-right{width:31%; float:right}
+.box043 {display: block; width:98%; padding:10px 2% 0 0; height:170px; overflow:hidden; border-bottom:1px solid #aaa}
+.box043:hover a {color:#000}
+.box043 img {height:125px; width:100%; box-shadow: 0 0 2px 1px #000;}
+.box043 h3 a{font-weight:normal; font-size:14px; display:block; height:40px; line-height:20px;}
+.box044 {display: block; width:98%; padding:5px 1%; overflow:hidden; transition: background 0.4s;}
+.box044:hover {background:#bbb}
+.box044:hover a {color:#000}
+.box044 h3 a{font-weight:normal; font-size:14px; display:block; height:42px; padding: 1px 0; overflow:hidden; line-height:21px}
+
+.box05{margin-bottom:20px; overflow:hidden; background:#fff; width:500px}
+.box051{width:480px; height:380px; padding:10px; border-bottom:1px solid #aaa}
+.box051 img{height:300px; width:480px; box-shadow: 0 0 2px 1px #000;}
+.box051 h3 a{font-size:16px}
+.box051-info {text-align:justify}
+.box052 {display: block; width:240px; padding:10px 5px; float:left; height:190px; overflow:hidden; border-bottom:1px solid #aaa}
+.box052 img {height:150px; width:240px; box-shadow: 0 0 2px 1px #000;}
+.box052 h3 a{font-weight:normal; font-size:14px; display:block; height:40px;}
+.box053 {display: block; width:500px; padding:5px; height:20px; overflow:hidden; transition: background 0.4s}
+.box053:hover {background:#bbb}
+.box053:hover a {color:#000}
+.box053 h3 a{font-weight:normal; font-size:14px; display:block; height:20px; line-height:20px}
+
+.box06{margin-bottom:20px; overflow:hidden;}
+.box06 h2 {padding:5px 10px 0 10px; border-bottom:1px solid #ff4500; background:#eee; font-size:20px; margin:0}
+.box06a{width:48.5%; float:left; background:#fff; overflow:hidden;}
+.box06b{width:48.5%; float:right; background:#fff; overflow:hidden;}
+.box061{height:390px; padding:10px; border-bottom:1px solid #aaa}
+.box061 img{height:190px; width:100%; box-shadow: 0 0 2px 1px #000;}
+.box061 h3 a{font-size:16px}
+.box061-info {text-align:justify}
+.box062 {display: block; width:98%; padding:5px 1%; overflow:hidden; transition: background 0.4s}
+.box062:hover {background:#bbb}
+.box062:hover a {color:#000}
+.box062 h3 a{font-weight:normal; font-size:14px; display:block; height:30px; line-height:15px}
+
+.boxmenu{overflow: hidden; width: 100%; border-bottom:1px solid #AB2727; background:#EEE;}
+.boxmenu li{float: left; list-style: none;}
+.boxmenu a{padding: 5px 5px 5px 25px; float: left; text-decoration: none; position: relative; color:#17207D}
+.boxmenu li:first-child a{padding-left: 15px; background:#AB2727; color:#EEE}
+.boxmenu li:first-child a::after{border-left-color: #AB2727;}
+.boxmenu li:first-child a:hover{background:#001F9C; color:#fff}
+.boxmenu li:first-child a:hover::after { border-left-color: #001F9C;}
+.boxmenu a:hover{background: #FA0A0E;}
+.boxmenu a::after, .boxmenu a::before{content: ""; position: absolute; top: 50%; margin-top: -1.5em; border-top: 1.5em solid transparent; border-bottom: 1.5em solid transparent; border-left: 1em solid; right: -1em;}
+.boxmenu a::after{z-index: 2; border-left-color: #EEE;}
+.boxmenu a::before{border-left-color: #71B1F5; right: -1.1em; z-index: 1; }
+.boxmenu a:hover::after{ border-left-color: #044387;}
